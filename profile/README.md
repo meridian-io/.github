@@ -34,7 +34,6 @@ Two long-standing community requests, now answered:
 
 ```bash
 # MCP server — for AI agents, Claude Desktop, CI/CD
-brew install meridian-io/tap/meridian-mcp
 docker pull ghcr.io/meridian-io/trino-mcp-server:v1.0
 
 # Kubernetes operator — control plane
